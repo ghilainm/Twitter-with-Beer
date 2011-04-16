@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/DHTExceptions
+END
+NoSetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/DHTExceptions/NoSetException.java
+END
+ValueNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/DHTExceptions/ValueNotFoundException.java
+END
+SetAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/DHTExceptions/SetAlreadyExistException.java
+END
+BadSecretException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/DHTExceptions/BadSecretException.java
+END
+DhtException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/DHTExceptions/DhtException.java
+END
+SecretProtectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/DHTExceptions/SecretProtectedException.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/Network
+END
+NetworkConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/285/TwitterV5/src/Network/NetworkConst.java
+END
+SslRMIServerSocketFactoryFixed.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/220/TwitterV5/src/Network/SslRMIServerSocketFactoryFixed.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/287/TwitterV5/src/Network/Server.java
+END
+LoadBalancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/241/TwitterV5/src/Network/LoadBalancer.java
+END
+NetworkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/Network/NetworkTest.java
+END
+PerformanceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/239/TwitterV5/src/Network/PerformanceMonitor.java
+END
+SslRMIClientSocketFactoryFixed.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/220/TwitterV5/src/Network/SslRMIClientSocketFactoryFixed.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/289/TwitterV5/src/Network/Client.java
+END

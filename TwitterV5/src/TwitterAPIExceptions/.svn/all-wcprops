@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions
+END
+UserAlreadyUsedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/UserAlreadyUsedException.java
+END
+NotLoggedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/NotLoggedException.java
+END
+ThisListAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/ThisListAlreadyExistException.java
+END
+UnAuthorizedValueInSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/UnAuthorizedValueInSet.java
+END
+TweetEmptyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/TweetEmptyException.java
+END
+UserNameInvalid.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/UserNameInvalid.java
+END
+UnauthorisedActionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/UnauthorisedActionException.java
+END
+BadPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/BadPasswordException.java
+END
+UserNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/UserNotFoundException.java
+END
+TwitterApiException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/TwitterApiException.java
+END
+PassWordTooWeak.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/PassWordTooWeak.java
+END
+ThisLineAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/ThisLineAlreadyExistException.java
+END
+ThisListDoesNotExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/studentsvn/MemoireGhilainMatthieu/!svn/ver/297/TwitterV5/src/TwitterAPIExceptions/ThisListDoesNotExistsException.java
+END

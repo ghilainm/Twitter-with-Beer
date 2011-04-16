@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<title>Source of TwitterFlex2</title>
+	<nodes>
+		<node label="html-template">
+			<node label="history">
+				<node icon="cssIcon" label="history.css" url="source/html-template/history/history.css.html"/>
+				<node label="history.js" url="source/html-template/history/history.js.txt"/>
+				<node icon="htmlIcon" label="historyFrame.html" url="source/html-template/history/historyFrame.html"/>
+			</node>
+			<node icon="htmlIcon" label="index.template.html" url="source/html-template/index.template.html"/>
+			<node icon="swfIcon" label="playerProductInstall.swf" url="source/html-template/playerProductInstall.swf"/>
+			<node label="swfobject.js" url="source/html-template/swfobject.js.txt"/>
+		</node>
+		<node label="images">
+			<node icon="imageIcon" label="B.png" url="source/images/B.png.html"/>
+			<node label="B.psd" url="source/images/B.psd"/>
+			<node icon="imageIcon" label="B_Background.jpg" url="source/images/B_Background.jpg.html"/>
+			<node icon="imageIcon" label="backGround.png" url="source/images/backGround.png.html"/>
+			<node label="background.psd" url="source/images/background.psd"/>
+			<node icon="imageIcon" label="Button-Close-icon.png" url="source/images/Button-Close-icon.png.html"/>
+			<node label="Button-Close-icon.psd" url="source/images/Button-Close-icon.psd"/>
+			<node icon="imageIcon" label="BUTTON-PLUS.jpg" url="source/images/BUTTON-PLUS.jpg.html"/>
+			<node label="BUTTON-PLUS.psd" url="source/images/BUTTON-PLUS.psd"/>
+			<node icon="imageIcon" label="buttonAddList.png" url="source/images/buttonAddList.png.html"/>
+			<node label="buttonAddList.psd" url="source/images/buttonAddList.psd"/>
+			<node icon="imageIcon" label="buttonClose.png" url="source/images/buttonClose.png.html"/>
+			<node label="buttonClose.psd" url="source/images/buttonClose.psd"/>
+			<node icon="imageIcon" label="buttonPlus.png" url="source/images/buttonPlus.png.html"/>
+			<node icon="imageIcon" label="deleteLine.png" url="source/images/deleteLine.png.html"/>
+			<node icon="imageIcon" label="deleteLineButton.jpg" url="source/images/deleteLineButton.jpg.html"/>
+			<node icon="imageIcon" label="deleteLineButton.png" url="source/images/deleteLineButton.png.html"/>
+			<node label="deleteLineButton.psd" url="source/images/deleteLineButton.psd"/>
+			<node icon="imageIcon" label="favorisButtonIcon.png" url="source/images/favorisButtonIcon.png.html"/>
+			<node label="favorisButtonIcon.psd" url="source/images/favorisButtonIcon.psd"/>
+			<node label="Ponies.svg" url="source/images/Ponies.svg"/>
+			<node icon="imageIcon" label="shutDown.png" url="source/images/shutDown.png.html"/>
+			<node label="shutDown.psd" url="source/images/shutDown.psd"/>
+		</node>
+		<node label="libs">
+		</node>
+		<node label="src">
+			<node icon="packageIcon" label="GUI" expanded="true">
+				<node icon="actionScriptIcon" label="Constant.as" url="source/GUI/Constant.as.html"/>
+				<node icon="actionScriptIcon" label="FavorisButton.as" url="source/GUI/FavorisButton.as.html"/>
+				<node icon="actionScriptIcon" label="FavorisChooserList.as" url="source/GUI/FavorisChooserList.as.html"/>
+				<node icon="actionScriptIcon" label="GuiUtils.as" url="source/GUI/GuiUtils.as.html"/>
+				<node icon="mxmlIcon" label="MultipleLineText.mxml" url="source/GUI/MultipleLineText.mxml.html"/>
+				<node icon="mxmlIcon" label="plusButtonItem.mxml" url="source/GUI/plusButtonItem.mxml.html"/>
+				<node icon="actionScriptIcon" label="PopUpFadingText.as" url="source/GUI/PopUpFadingText.as.html"/>
+				<node icon="mxmlIcon" label="roundedListSkin.mxml" url="source/GUI/roundedListSkin.mxml.html"/>
+				<node icon="actionScriptIcon" label="TextInputPopUp.as" url="source/GUI/TextInputPopUp.as.html"/>
+				<node icon="actionScriptIcon" label="TweetBuilder.as" url="source/GUI/TweetBuilder.as.html"/>
+				<node icon="cssIcon" label="TwitterFlex2.css" url="source/GUI/TwitterFlex2.css.html"/>
+				<node icon="mxmlAppIcon" selected="true" label="TwitterFlex2.mxml" url="source/GUI/TwitterFlex2.mxml.html"/>
+				<node icon="actionScriptIcon" label="TwitterRequests.as" url="source/GUI/TwitterRequests.as.html"/>
+			</node>
+		</node>
+	</nodes>
+	<zipfile label="Download source (ZIP, 2424K)" url="TwitterFlex2.zip">
+	</zipfile>
+	<sdklink label="Download Flex SDK" url="http://www.adobe.com/go/flex4_sdk_download">
+	</sdklink>
+</index>

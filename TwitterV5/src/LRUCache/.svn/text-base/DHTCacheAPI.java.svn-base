@@ -1,0 +1,11 @@
+package LRUCache;
+import java.util.Collection;
+import java.util.Map;
+
+public interface LRUCacheAPI<K,V> {
+	public void put(K key, V value);
+	public V get(K key);
+	public int size();
+	public void clear();
+	public Collection<Map.Entry<K, V>> getAll();
+}
